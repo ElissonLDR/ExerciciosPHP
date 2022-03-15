@@ -47,6 +47,6 @@ Descrição da função
  A função troco() deve receber os seguintes parametros:
  - $valor: um inteiro com o valor do troco
  O retorno deve ser um array no seguinte formato. 
- r[0]  r[1]  r[2] r[3] r[4]
-| 1 | | 1 | | 1 | | 1| | 2|
-|$50| |$20| |$10| |$5| |$2|
+<p>r[0]  r[1]  r[2] r[3] r[4]</p>
+<p>| 1 | | 1 | | 1 | | 1| | 2|</p>
+<p>|$50| |$20| |$10| |$5| |$2|</p>
